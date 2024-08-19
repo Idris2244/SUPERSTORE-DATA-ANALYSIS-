@@ -16,7 +16,13 @@ The primary dataset used for this analysis is the superstore sales file containi
 - Excel -(Data Cleaning & Visualization)
 - Snipping Tool -(For Images Screenshot)
 
+### Data Quanlity and Assessment/Cleaning 
 
+In the initial data preparation phase, we performed the following tasks:
+
+1. Data loading and inspection. 
+2. Handling missing values.
+3. Data cleaning and formatting.
 
 
 
