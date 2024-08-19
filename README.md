@@ -34,7 +34,7 @@ In the initial data preparation phase, we performed the following tasks:
 4. Who are the Top customer by quantity?
 5. What are the Sales regions Within our Organization, and how are they defined?
 6. Which of the category of sales is making the highest sales?
-7. Whis sales representatives generate the highest sales?
+7. Which sales representatives generate the highest sales?
 8. How does the quantity of items influence the selection of the shipping mode?
 9. How do discounts vary across different product categories?
 
