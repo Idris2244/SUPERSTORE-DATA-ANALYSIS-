@@ -36,6 +36,61 @@ In the initial data preparation phase, we performed the following tasks:
 8. How does the quantity of items influence the selection of the shipping mode?
 9. How do discounts vary across different product categories?
 
+### Results And Findings
+
+- Among the top 10 products, the Canon imageCLASS 2200 Advanced Copier stands out with the highest sales, totaling $61,600. It is followed by the Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind, which has achieved sales of $27,453. In third place is the Cisco TelePresence System EX90 Videoconferencing Unit, with sales amounting to $22,638.
+- Among the top 10 products by profit, the Canon imageCLASS 2200 Advanced Copier leads with the highest profit of $25,200. It is followed by the Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind, which has achieved a profit of $7,753, and the Hewlett Packard LaserJet 3310 Copier with a profit of $6,984. The Canon PC1060 Personal Laser Copier also ranks among the top.
+- Among the top 10 customers, Jonathan Doherty leads with the highest quantity purchased, totaling 150 units. He is followed by William Brown with 146 units, and John Lee with 143 units.
+- In terms of sales by region, the West leads with the highest contribution at 32%, followed by the East with 29%, and the Central region with 22%. The South region has the lowest sales, accounting for 17%.
+- In terms of sales by category, Technology leads with the highest share at 37%, followed by Furniture at 32%. The Office Supplies category has the lowest sales, accounting of 31%.
+- Organic is the top sales representative in the company, generating approximately $1,440,482 in sales. He is followed by Morris Garcia with $92,367, while Jessica Smith has the lowest sales performance at $50,206.
+- Based on the analysis of shipping modes by quantity, Standard Class is the most frequently utilized shipping option, accounting for 60% of orders. This is followed by Second Class, which represents 20% of the shipments. First Class constitutes 15% of the shipping modes, while Same Day shipping is the least common, making up only 5% of the total.
+- Based on the discount categories for office supplies, furniture, and technology, it is observed that office supplies offer the highest discount rate at 61%, followed by furniture with a 23% discount, and technology with the lowest at 16%.
+
+### Rcommendation
+
+-  it is recommended that the top 10 product should be available time to time for customer satisfaction.
+-  For products with lower profit margins, it is recommended to conduct further market analysis to identify the reasons for their reduced profitability. Alternatively, the company might consider increasing the selling price to enhance profitability.
+- To further encourage high-value purchases and balance customer buying patterns, it is recommended that the company consider rewarding Jonathan Doherty and William Brown. This approach could help incentivize other customers to increase their order quantities, thereby driving overall sales volume. 
+- To address this disparity and boost sales in underperforming areas, it is recommended that the company increase advertising efforts in the South and Central regions.
+- To improve performance in this category, it is recommended that the company increase advertising efforts for office supplies to boost sales and enhance market visibility.
+- It is recommended that the company reward Organic to recognize his exceptional performance and motivate other sales representatives to strive for similar success. Additionally, Jessica Smith should receive further training to enhance her skills. Should there be no significant improvement after a few months, the company may need to consider alternative solutions.
+- To improve efficiency in handling Same Day orders, it is recommended that the company allocate additional resources, such as staff and equipment, to better manage and expedite these orders.
+- (Eureka Disposable Bags for Sanitaire Vibra Groomer | Upright Vac ,Avery 5 Xerox 20, Grip Seal Envelopes and Avery Hi-Liter Pen Style Six-Color Fluorescent Set) are the bottom five products that should be thoroughly reviewed, and additional market analysis is recommended to identify the underlying reasons for their poor sales performance. This will help in developing strategies to improve their market appeal and overall performance.
+- To optimize sales performance, it is recommended that the company focus on increasing its sales volume. By doing so, the company could potentially qualify for higher discount rates or more favorable pricing tiers, thus enhancing overall profitability.
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
 
 
 
