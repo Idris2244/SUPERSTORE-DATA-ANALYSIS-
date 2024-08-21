@@ -1,5 +1,5 @@
 # SUPERSTORE SALES ANALYSIS 
-2022 Data Analysis
+2014-2017 Data Analysis
 
 ---
 
@@ -7,7 +7,8 @@
 
 This analysis provides valuable insights into customer behavior, geographical distribution, and the performance of sales representatives, enabling us to make data-informed decisions and tailor our strategies to maximize effectiveness.
 
-![superstore project](https://github.com/user-attachments/assets/89db2642-1827-46f2-8996-d7f88f5cce90)
+![super store 2](https://github.com/user-attachments/assets/488b72eb-27f3-4c6b-9cf2-e81af3871a74)
+
 
 ## Data Sources 
 
@@ -56,6 +57,9 @@ Organic is the top sales representative in the company, generating approximately
 Based on the analysis of shipping modes by quantity, Standard Class is the most frequently utilized shipping option, accounting for 60% of orders. This is followed by Second Class, which represents 20% of the shipments. First Class constitutes 15% of the shipping modes, while Same Day shipping is the least common, making up only 5% of the total.
 #### Category by Discount:
 Based on the discount categories for office supplies, furniture, and technology, it is observed that office supplies offer the highest discount rate at 61%, followed by furniture with a 23% discount, and technology with the lowest at 16%.
+#### Top 10 state:
+Among the top 10 states, California leads with the highest sales, totaling $457,688, followed by New York at $310,876. In contrast, Virginia ranks last within this group, with sales amounting to $70,63. 
+
 
 ## Rcommendation
 
@@ -77,6 +81,11 @@ To improve efficiency in handling Same Day orders, it is recommended that the co
 (Eureka Disposable Bags for Sanitaire Vibra Groomer | Upright Vac ,Avery 5 Xerox 20, Grip Seal Envelopes and Avery Hi-Liter Pen Style Six-Color Fluorescent Set) are the bottom five products that should be thoroughly reviewed, and additional market analysis is recommended to identify the underlying reasons for their poor sales performance. This will help in developing strategies to improve their market appeal and overall performance.
 #### Category by Discount:
 To optimize sales performance, it is recommended that the company focus on increasing its sales volume. By doing so, the company could potentially qualify for higher discount rates or more favorable pricing tiers, thus enhancing overall profitability.
+#### Top 10 State:
+To optimize performance and tailor strategies effectively, it is recommended that the company conduct comprehensive market research. This will help in gaining a deeper understanding of local customer behavior, preferences, and needs, thereby enhancing targeted marketing efforts and improving overall sales performance.
+
+
+
 
  
 
