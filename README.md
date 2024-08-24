@@ -7,7 +7,8 @@
 
 This analysis provides valuable insights into customer behavior, geographical distribution, and the performance of sales representatives, enabling us to make data-informed decisions and tailor our strategies to maximize effectiveness.
 
-![super store 2](https://github.com/user-attachments/assets/488b72eb-27f3-4c6b-9cf2-e81af3871a74)
+![project](https://github.com/user-attachments/assets/5f93c59f-9808-41f5-8fc8-adfdfcba962e)
+
 
 
 ## Data Sources 
